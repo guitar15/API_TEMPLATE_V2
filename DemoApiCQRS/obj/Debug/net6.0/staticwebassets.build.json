@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wvkVJJQ8bhmAyW5k10q97LAekBukiLXNHXvHCjBTxN8=",
+  "Source": "DemoApiCQRS",
+  "BasePath": "_content/DemoApiCQRS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

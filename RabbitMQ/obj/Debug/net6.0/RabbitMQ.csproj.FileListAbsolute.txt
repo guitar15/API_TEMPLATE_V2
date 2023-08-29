@@ -1,0 +1,12 @@
+D:\API_TEMPLATE_V2\RabbitMQ\bin\Debug\net6.0\RabbitMQ.deps.json
+D:\API_TEMPLATE_V2\RabbitMQ\bin\Debug\net6.0\RabbitMQ.dll
+D:\API_TEMPLATE_V2\RabbitMQ\bin\Debug\net6.0\RabbitMQ.pdb
+D:\API_TEMPLATE_V2\RabbitMQ\obj\Debug\net6.0\RabbitMQ.csproj.AssemblyReference.cache
+D:\API_TEMPLATE_V2\RabbitMQ\obj\Debug\net6.0\RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\API_TEMPLATE_V2\RabbitMQ\obj\Debug\net6.0\RabbitMQ.AssemblyInfoInputs.cache
+D:\API_TEMPLATE_V2\RabbitMQ\obj\Debug\net6.0\RabbitMQ.AssemblyInfo.cs
+D:\API_TEMPLATE_V2\RabbitMQ\obj\Debug\net6.0\RabbitMQ.csproj.CoreCompileInputs.cache
+D:\API_TEMPLATE_V2\RabbitMQ\obj\Debug\net6.0\RabbitMQ.dll
+D:\API_TEMPLATE_V2\RabbitMQ\obj\Debug\net6.0\refint\RabbitMQ.dll
+D:\API_TEMPLATE_V2\RabbitMQ\obj\Debug\net6.0\RabbitMQ.pdb
+D:\API_TEMPLATE_V2\RabbitMQ\obj\Debug\net6.0\ref\RabbitMQ.dll

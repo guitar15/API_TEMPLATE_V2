@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthApi", "AuthApi\AuthApi.csproj", "{F68C8F05-D1A6-4FD0-8337-9B7D79B5E036}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtTokenAuthentication", "JwtTokenAuthentication\JwtTokenAuthentication.csproj", "{105AC96C-9B24-419D-80F7-18B99AA5BA17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthApi.Tests", "AuthApi.Tests\AuthApi.Tests.csproj", "{A7D8125A-96B2-4209-8E76-B09DEEDB0371}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApi", "DemoApi\DemoApi.csproj", "{A557142D-6C4C-42EF-B661-23DA51F883F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApiCQRS", "DemoApiCQRS\DemoApiCQRS.csproj", "{077571DF-B855-4D71-B65E-528C6F45E273}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIGateway", "APIGateway\APIGateway.csproj", "{CAF36F1E-2766-41F3-9F68-F5091E39A635}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQ", "RabbitMQ\RabbitMQ.csproj", "{CC290FAE-C4E5-4742-892D-0F6CEA1277A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68C8F05-D1A6-4FD0-8337-9B7D79B5E036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68C8F05-D1A6-4FD0-8337-9B7D79B5E036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68C8F05-D1A6-4FD0-8337-9B7D79B5E036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68C8F05-D1A6-4FD0-8337-9B7D79B5E036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105AC96C-9B24-419D-80F7-18B99AA5BA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105AC96C-9B24-419D-80F7-18B99AA5BA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105AC96C-9B24-419D-80F7-18B99AA5BA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105AC96C-9B24-419D-80F7-18B99AA5BA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D8125A-96B2-4209-8E76-B09DEEDB0371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D8125A-96B2-4209-8E76-B09DEEDB0371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D8125A-96B2-4209-8E76-B09DEEDB0371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D8125A-96B2-4209-8E76-B09DEEDB0371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A557142D-6C4C-42EF-B661-23DA51F883F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A557142D-6C4C-42EF-B661-23DA51F883F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A557142D-6C4C-42EF-B661-23DA51F883F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A557142D-6C4C-42EF-B661-23DA51F883F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{077571DF-B855-4D71-B65E-528C6F45E273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077571DF-B855-4D71-B65E-528C6F45E273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077571DF-B855-4D71-B65E-528C6F45E273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077571DF-B855-4D71-B65E-528C6F45E273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF36F1E-2766-41F3-9F68-F5091E39A635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF36F1E-2766-41F3-9F68-F5091E39A635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF36F1E-2766-41F3-9F68-F5091E39A635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF36F1E-2766-41F3-9F68-F5091E39A635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC290FAE-C4E5-4742-892D-0F6CEA1277A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC290FAE-C4E5-4742-892D-0F6CEA1277A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC290FAE-C4E5-4742-892D-0F6CEA1277A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC290FAE-C4E5-4742-892D-0F6CEA1277A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F186AFFB-EA06-409B-9F16-6CBEBFED0F1E}
+	EndGlobalSection
+EndGlobal
