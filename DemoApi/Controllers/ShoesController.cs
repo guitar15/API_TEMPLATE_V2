@@ -20,9 +20,15 @@ public class ShoesController : ControllerBase
 
     [HttpGet]
     public IActionResult Get()
-    {        
+    {
         return Ok(_shoeRepository.GetShoes(ipAddress(), "GetShoes"));
 
+    }
+
+    [HttpGet("TestAsync")]
+    public async Task<IActionResult> TestAsync()
+    {
+        return Ok(await Task.FromResult(_shoeRepository.GetShoes(ipAddress(), "GetShoes")));
     }
 
     [Authorize(Roles = "Admin")]

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JwtTokenAuthentication\JwtTokenAuthentication.csproj" />
+    <ProjectReference Include="..\RabbitMq.Common\RabbitMq.Common.csproj" />
+  </ItemGroup>
+
+</Project>

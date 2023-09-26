@@ -10,3 +10,15 @@ D:\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\JwtTokenAuthenticatio
 D:\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\refint\JwtTokenAuthentication.dll
 D:\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\JwtTokenAuthentication.pdb
 D:\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\ref\JwtTokenAuthentication.dll
+D:\API_TEMPLATE_V2\API_TEMPLATE_V2\JwtTokenAuthentication\bin\Debug\net6.0\JwtTokenAuthentication.deps.json
+D:\API_TEMPLATE_V2\API_TEMPLATE_V2\JwtTokenAuthentication\bin\Debug\net6.0\JwtTokenAuthentication.dll
+D:\API_TEMPLATE_V2\API_TEMPLATE_V2\JwtTokenAuthentication\bin\Debug\net6.0\JwtTokenAuthentication.pdb
+D:\API_TEMPLATE_V2\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\JwtTokenAuthentication.csproj.AssemblyReference.cache
+D:\API_TEMPLATE_V2\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\JwtTokenAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\API_TEMPLATE_V2\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\JwtTokenAuthentication.AssemblyInfoInputs.cache
+D:\API_TEMPLATE_V2\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\JwtTokenAuthentication.AssemblyInfo.cs
+D:\API_TEMPLATE_V2\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\JwtTokenAuthentication.csproj.CoreCompileInputs.cache
+D:\API_TEMPLATE_V2\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\JwtTokenAuthentication.dll
+D:\API_TEMPLATE_V2\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\refint\JwtTokenAuthentication.dll
+D:\API_TEMPLATE_V2\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\JwtTokenAuthentication.pdb
+D:\API_TEMPLATE_V2\API_TEMPLATE_V2\JwtTokenAuthentication\obj\Debug\net6.0\ref\JwtTokenAuthentication.dll

@@ -1,5 +1,6 @@
 using DemoApi.Repositories;
 using JwtTokenAuthentication;
+using RabbitMq.Common.Services;
 using RabbitMQ;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +14,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IShoeRepository, ShoeRepository>();
 builder.Services.AddScoped<IRabitMQProducer, RabitMQProducer>();
+//builder.Services.AddSingleton<IRabbitMqService, RabbitMqService>();
 
 builder.Services.addJwtAuthentication();
 

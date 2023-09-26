@@ -1245,6 +1245,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
           "Newtonsoft.Json": "13.0.1",
           "RabbitMQ.Client": "6.5.0"
         },
@@ -3920,11 +3922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\API_TEMPLATE_V2\\AuthApi\\AuthApi.csproj",
+      "projectUniqueName": "D:\\API_TEMPLATE_V2\\API_TEMPLATE_V2\\AuthApi\\AuthApi.csproj",
       "projectName": "AuthApi",
-      "projectPath": "D:\\API_TEMPLATE_V2\\AuthApi\\AuthApi.csproj",
+      "projectPath": "D:\\API_TEMPLATE_V2\\API_TEMPLATE_V2\\AuthApi\\AuthApi.csproj",
       "packagesPath": "C:\\Users\\waranyu_s\\.nuget\\packages\\",
-      "outputPath": "D:\\API_TEMPLATE_V2\\AuthApi\\obj\\",
+      "outputPath": "D:\\API_TEMPLATE_V2\\API_TEMPLATE_V2\\AuthApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3945,11 +3947,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\API_TEMPLATE_V2\\JwtTokenAuthentication\\JwtTokenAuthentication.csproj": {
-              "projectPath": "D:\\API_TEMPLATE_V2\\JwtTokenAuthentication\\JwtTokenAuthentication.csproj"
+            "D:\\API_TEMPLATE_V2\\API_TEMPLATE_V2\\JwtTokenAuthentication\\JwtTokenAuthentication.csproj": {
+              "projectPath": "D:\\API_TEMPLATE_V2\\API_TEMPLATE_V2\\JwtTokenAuthentication\\JwtTokenAuthentication.csproj"
             },
-            "D:\\API_TEMPLATE_V2\\RabbitMQ\\RabbitMQ.csproj": {
-              "projectPath": "D:\\API_TEMPLATE_V2\\RabbitMQ\\RabbitMQ.csproj"
+            "D:\\API_TEMPLATE_V2\\API_TEMPLATE_V2\\RabbitMQ\\RabbitMQ.csproj": {
+              "projectPath": "D:\\API_TEMPLATE_V2\\API_TEMPLATE_V2\\RabbitMQ\\RabbitMQ.csproj"
             }
           }
         }

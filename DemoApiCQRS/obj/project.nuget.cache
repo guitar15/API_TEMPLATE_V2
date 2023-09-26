@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNIQ4hgCRwfMyk/x1+JXPsLIUnx5pb8GoXEVwY+XOBrPWZLPM8vn9WILeTG96N/aH14MF0BLP9i3JORxjPGj9Q==",
+  "dgSpecHash": "PSSrPlYd35XvJBVV3gMQ7VTcX/LA8XeJ53S/kw7fB4/fLB9aSpMWiRfZkEOP9uYbzyZ8kVyHzmKECC+jat4IEA==",
   "success": true,
-  "projectFilePath": "D:\\API_TEMPLATE_V2\\DemoApiCQRS\\DemoApiCQRS.csproj",
+  "projectFilePath": "D:\\API_TEMPLATE_V2\\API_TEMPLATE_V2\\DemoApiCQRS\\DemoApiCQRS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\waranyu_s\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.21\\microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512",
     "C:\\Users\\waranyu_s\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

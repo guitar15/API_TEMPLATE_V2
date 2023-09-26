@@ -1,0 +1,4 @@
+2023-09-01T14:36:22.7248880+07:00  [INF] Now listening on: "http://0.0.0.0:5001" (d826f4b8)
+2023-09-01T14:36:22.7435818+07:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-09-01T14:36:22.7463380+07:00  [INF] Hosting environment: "Development" (c3307c92)
+2023-09-01T14:36:22.7481318+07:00  [INF] Content root path: "D:\API_TEMPLATE_V2\API_TEMPLATE_V2\AuthApi\" (b5d60022)

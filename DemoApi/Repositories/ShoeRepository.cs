@@ -1,4 +1,5 @@
 ﻿using DemoApi.Models;
+using RabbitMq.Common.Services;
 using RabbitMQ;
 namespace DemoApi.Repositories;
 
@@ -27,10 +28,10 @@ public class ShoeRepository : IShoeRepository
                 Price = 119.99M
             }
         };
-    private readonly IRabitMQProducer _rabitMQProducer;
-    public ShoeRepository(IRabitMQProducer rabitMQProducer)
+    private readonly IRabitMQProducer _rabbitMqService;
+    public ShoeRepository(IRabitMQProducer rabbitMqService)
     {
-        _rabitMQProducer = rabitMQProducer;
+        _rabbitMqService = rabbitMqService;
     }
     public bool DeleteShoe(int id)
     {
@@ -46,7 +47,7 @@ public class ShoeRepository : IShoeRepository
 
     public List<Shoe> GetShoes(string Ip, string queue)
     {
-        _rabitMQProducer.SendMessage(_shoes, Ip, queue);
+        _rabbitMqService.SendMessage(_shoes, Ip, queue);
         return _shoes;
     }
 

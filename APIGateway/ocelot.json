@@ -29,6 +29,22 @@
       }
     },
     {
+      "UpstreamPathTemplate": "/Producer",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/Home",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "127.0.0.1",
+          "Port": 5005
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    {
       "UpstreamPathTemplate": "/shoes/{id}",
       "UpstreamHttpMethod": [ "Delete" ],
       "DownstreamPathTemplate": "/api/shoes/{id}",
